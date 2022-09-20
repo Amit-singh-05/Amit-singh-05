@@ -1,4 +1,4 @@
-[![MasterHead](./Images/company)]
+![MasterHead](./Images/company.gif)
 <h1 align="center">Hi 👋, I'm Amit Singh</h1>
 <h3 align="center">Innovative, task-driven professional with a strong understanding of full stack development</h3>
 <img align="right" alt="Coding" width="400" src="./Images/amc.gif">
