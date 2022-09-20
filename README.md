@@ -27,7 +27,9 @@
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="./Images/HTML.jpg" alt="html5" width="40" height="40"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./Images/JS.jpg" alt="javascript" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./Images/GITBAS.jpg" alt="git" width="40" height="40"/> </a>
+    <br>
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="./Images/MATLAB.jpg" alt="matlab" width="40" height="40"/> </a>
+    <br>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="./Images/ARDINO.jpg" alt="arduino" width="40" height="40"/> </a> 
 </p>
 
