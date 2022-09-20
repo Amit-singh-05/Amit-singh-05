@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amit-singh-b465b41a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-singh-b465b41a4" height="30" width="40" /></a>
-<a href="https://amit-singh-05.github.io/" target="blank"><img align="center" src="./Images/portfolio.jpg" alt="amit-singh-05.github.io" height="30" width="40" /></a>
+<a href="https://amit-singh-05.github.io/" target="blank"><img align="center" src="./Images/portfolio.png" alt="amit-singh-05.github.io" height="30" width="40" /></a>
 <a href="https://instagram.com/amit_singh_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amit_singh_05" height="30" width="40" /></a>
 </p>
 
