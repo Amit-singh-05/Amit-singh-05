@@ -33,9 +33,11 @@
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit-singh-05&show_icons=true&locale=en&layout=compact" alt="amit-singh-05" /></p>
-
-
-
+<br>
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=amit-singh-05&show_icons=true&locale=en" alt="amit-singh-05" />
+</p>
+<br>
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amit-singh-05&" alt="amit-singh-05" />
 </p>
