@@ -1,4 +1,4 @@
-![MasterHead](./Images/company.gif)
+<a href="https://amit-singh-05.github.io/" target="blank">![MasterHead](./Images/b2.gif)</a>
 <h1 align="center">Hi 👋, I'm Amit Singh</h1>
 <h3 align="center">Innovative, task-driven professional with a strong understanding of full stack development</h3>
 <img align="right" alt="Coding" width="400" src="./Images/amc.gif">
