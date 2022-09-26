@@ -37,5 +37,5 @@
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit-singh-05&show_icons=true&locale=en&layout=compact" alt="amit-singh-05" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=amit-singh-05&show_icons=true&locale=en" alt="amit-singh-05" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amit-singh-05&" alt="amit-singh-05" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-singh-05&theme=dark&border_radius=7.1&date_format=j%20M%5B%20Y%5D" alt="amit-singh-05" />
 </p>
