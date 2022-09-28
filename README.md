@@ -34,10 +34,14 @@
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="./Images/ARDINO.jpg" alt="arduino" width="40" height="40"/> </a> 
 </p>
 
-<p>
+<div>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit-singh-05&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="amit-singh-05" />
-</p>
-</br>
-<p>
+</div>
+<div>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-singh-05&theme=vision-friendly-dark&border_radius=7.1&date_format=j%20M%5B%20Y%5D" alt="amit-singh-05" />
-</p>
+</div>  
+    
+<!--     <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=amit-singh-05&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="amit-singh-05" />
+</p>  -->
+
