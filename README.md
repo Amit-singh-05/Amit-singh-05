@@ -37,12 +37,12 @@
 <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit-singh-05&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="amit-singh-05" />
 </div>
-<br />
+
 <div>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-singh-05&theme=vision-friendly-dark&border_radius=7.1&date_format=j%20M%5B%20Y%5D" alt="amit-singh-05" />
 </div>  
     
-<!--     <p>
+<div>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=amit-singh-05&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="amit-singh-05" />
-</p>  -->
+</div> 
 
