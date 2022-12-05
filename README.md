@@ -1,4 +1,4 @@
-<a href="https://amit-singh-05.github.io/" target="blank">![MasterHead](https://drive.google.com/file/d/1CrHTEvGCthkU7vUNxUff3d2IMPfNvmSN/view?usp=sharing)</a>
+<a href="https://amit-singh-05.github.io/" target="blank">![MasterHead](./Images/ba3.gif)</a>
 <h1 align="center">Hi 👋, I'm Amit Singh</h1>
 <p align="center">Innovative, task-driven professional with a strong understanding of web development, along with 30 weeks(1000+ hrs) of coding experience and excellent communication skills, seeking an entry-level position to begin my career in a high-level professional environment to make use of my interpersonal skills to achieve the goals of a company and to intensify my skillset along the way.</p>
 <br />
