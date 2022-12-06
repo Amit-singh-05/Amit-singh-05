@@ -21,17 +21,24 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="./Images/java.jpg" alt="java" width="40" height="40"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="./Images/SQL.jpg" alt="mysql" width="40" height="40"/> </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./Images/NODE.jpg" alt="nodejs" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="./Images/CSS.jpg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="./Images/HTML.jpg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./Images/JS.jpg" alt="javascript" width="40" height="40"/> </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./Images/GITBAS.jpg" alt="git" width="40" height="40"/> </a>
-    <br>
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="./Images/MATLAB.jpg" alt="matlab" width="40" height="40"/> </a>
-    <br>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="./Images/ARDINO.jpg" alt="arduino" width="40" height="40"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/HTML5_Logo_512.png" alt="html5" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/css-3-logo-png-transparent.png" alt="css3" width="40" height="40"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/js-logo.png" alt="javascript" width="40" height="40"/> </a> 
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/Java-PNG-Clipart.png" alt="java" width="40" height="40"/> </a> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/MySQL.jpg" alt="mysql" width="40" height="40"/> </a>
+    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/Spring.jpg" alt="spring" width="40" height="40"/> </a> 
+    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/Spring%20Boot.jpg" alt="spring boot" width="40" height="40"/> </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/git.png" alt="git" width="40" height="40"/> </a>
+    <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/GitHub.jpg" alt="git hub" width="40" height="40"/> </a> 
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/aws.png" alt="aws" width="40" height="40"/> </a> 
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/Visual%20Studio%20Code.png" alt="vs code" width="40" height="40"/> </a> 
+    <a href="https://spring.io/tools" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/SpringToolSuite.jpeg" alt="sts" width="40" height="40"/> </a> 
+    
+ 
+   
+    
+    
+<!--     <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>  -->
 </p>
 
 <div>
