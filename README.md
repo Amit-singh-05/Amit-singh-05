@@ -1,8 +1,8 @@
-<a href="https://amit-singh-05.github.io/" target="blank">![MasterHead](./Images/ba3.gif)</a>
+<a href="https://amit-singh-05.github.io/" target="blank">![MasterHead](https://amit-singh-05.github.io/images/github/ba3.gif)</a>
 <h1 align="center">Hi 👋, I'm Amit Singh</h1>
 <p align="center">Innovative, task-driven professional with a strong understanding of web development, along with 30 weeks(1000+ hrs) of coding experience and excellent communication skills, seeking an entry-level position to begin my career in a high-level professional environment to make use of my interpersonal skills to achieve the goals of a company and to intensify my skillset along the way.</p>
 <br />
-<img align="right" alt="Coding" width="400" src="./Images/amc.gif">
+<img align="right" alt="Coding" width="400" src="https://amit-singh-05.github.io/images/github/amc.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-singh-05&label=Profile%20views&color=0e75b6&style=flat" alt="amit-singh-05" /> </p>
 <br />
 
