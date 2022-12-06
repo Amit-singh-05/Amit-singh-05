@@ -44,8 +44,8 @@
 </p>
 
 <h3 align="left">My Statistics:</h3>
-<img align="left" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit-singh-05&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark">
-<img align="left" alt="Coding" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-singh-05&theme=vision-friendly-dark&border_radius=7.1&date_format=j%20M%5B%20Y%5D" >
-<img align="right" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api?username=amit-singh-05&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark">
+<img align="right" alt="Coding" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit-singh-05&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark">
+<img align="left" alt="Coding" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-singh-05&theme=vision-friendly-dark&border_radius=7.1&date_format=j%20M%5B%20Y%5D" >
+<img align="left" alt="Coding" width="450" src="https://github-readme-stats.vercel.app/api?username=amit-singh-05&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark">
 
 
