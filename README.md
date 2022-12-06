@@ -1,16 +1,17 @@
+
 <a href="https://amit-singh-05.github.io/" target="blank">![MasterHead](https://amit-singh-05.github.io/images/github/ba3.gif)</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-singh-05&label=Profile%20views&color=0e75b6&style=flat" alt="amit-singh-05" /> </p>
 <h1 align="center">Hi 👋, I'm Amit Singh</h1>
 <p align="center">Innovative, task-driven professional with a strong understanding of web development, along with 30 weeks(1000+ hrs) of coding experience and excellent communication skills, seeking an entry-level position to begin my career in a high-level professional environment to make use of my interpersonal skills to achieve the goals of a company and to intensify my skillset along the way.</p>
-<br />
+
 <img align="right" alt="Coding" width="400" src="https://amit-singh-05.github.io/images/github/amc.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-singh-05&label=Profile%20views&color=0e75b6&style=flat" alt="amit-singh-05" /> </p>
 <br />
 
 - 👨‍💻 All of my projects are available at [https://amit-singh-05.github.io/](https://amit-singh-05.github.io/)
 
-- 📫 How to reach me **ami9sin05@gmail.com**
+- 📞 Phone Number **+918602136459**
 
-- 📄 Know about my experiences [https://amit-singh-05.github.io/doc/Amit%20singh%20Resume.pdf](https://amit-singh-05.github.io/doc/Amit%20singh%20Resume.pdf)
+- 📄 Resume [https://amit-singh-05.github.io/doc/Amit%20singh%20Resume.pdf](https://amit-singh-05.github.io/doc/Amit%20singh%20Resume.pdf)
 
 <h3 align="left">Get in Touch:</h3>
 <p align="left">
@@ -43,7 +44,7 @@
 </p>
 
 <h3 align="left">My Statistics:</h3>
-<p align="left"> 
+<p align="centre"> 
 <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit-singh-05&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="amit-singh-05" />
 </div>
