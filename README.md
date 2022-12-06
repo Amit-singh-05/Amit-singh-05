@@ -15,10 +15,10 @@
 
 <h3 align="left">Get in Touch:</h3>
 <p align="left">
-     <a href="mailto:ami9sin05@gmail.com" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/github/gmail.png" alt="Gmail" width="40" height="40"/> </a>
-     <a  href="https://linkedin.com/in/amit-singh-b465b41a4" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/github/linkedin.png" alt="LinkedIn" width="40" height="40"/> </a>
-     <a href="https://amit-singh-05.github.io/"  target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/github/portfolio.jpeg" alt="Portfolio" width="40" height="40"/> </a>
-     <a  href="https://instagram.com/amit_singh_05"  target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/github/instagram.png" alt="Instagram" width="40" height="40"/> </a>
+     <a href="mailto:ami9sin05@gmail.com" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/github/gmail.png" alt="Gmail" width="30" height="30"/> </a>
+     <a  href="https://linkedin.com/in/amit-singh-b465b41a4" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/github/linkedin.png" alt="LinkedIn" width="30" height="30"/> </a>
+     <a href="https://amit-singh-05.github.io/"  target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/github/portfolio.jpeg" alt="Portfolio" width="30" height="30"/> </a>
+     <a  href="https://instagram.com/amit_singh_05"  target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/github/instagram.png" alt="Instagram" width="30" height="30"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
