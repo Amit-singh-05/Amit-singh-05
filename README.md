@@ -44,17 +44,8 @@
 </p>
 
 <h3 align="left">My Statistics:</h3>
-<p align="centre"> 
-<div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit-singh-05&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="amit-singh-05" />
-</div>
+<img align="center" alt="Coding" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit-singh-05&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark">
+<img align="center" alt="Coding" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-singh-05&theme=vision-friendly-dark&border_radius=7.1&date_format=j%20M%5B%20Y%5D" >
+<img align="center" alt="Coding" width="500" src="https://github-readme-stats.vercel.app/api?username=amit-singh-05&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark">
 
-<div>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-singh-05&theme=vision-friendly-dark&border_radius=7.1&date_format=j%20M%5B%20Y%5D" alt="amit-singh-05" />
-</div>  
-    
-<div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=amit-singh-05&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="amit-singh-05" />
-</div>
-</p>
 
