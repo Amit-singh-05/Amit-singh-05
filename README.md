@@ -14,9 +14,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amit-singh-b465b41a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-singh-b465b41a4" height="30" width="40" /></a>
-<a href="https://amit-singh-05.github.io/" target="blank"><img align="center" src="./Images/portfolio.png" alt="amit-singh-05.github.io" height="30" width="40" /></a>
-<a href="https://instagram.com/amit_singh_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amit_singh_05" height="30" width="40" /></a>
+     <a href="mailto:ami9sin05@gmail.com" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/github/gmail.png" alt="Gmail" width="40" height="40"/> </a>
+     <a  href="https://linkedin.com/in/amit-singh-b465b41a4" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/github/linkedin.png" alt="LinkedIn" width="40" height="40"/> </a>
+     <a href="https://amit-singh-05.github.io/"  target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/github/portfolio.jpeg" alt="Portfolio" width="40" height="40"/> </a>
+     <a  href="https://instagram.com/amit_singh_05"  target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/github/instagram.png" alt="Instagram" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
