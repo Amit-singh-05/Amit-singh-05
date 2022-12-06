@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://amit-singh-05.github.io/doc/Amit%20singh%20Resume.pdf](https://amit-singh-05.github.io/doc/Amit%20singh%20Resume.pdf)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Get in Touch:</h3>
 <p align="left">
      <a href="mailto:ami9sin05@gmail.com" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/github/gmail.png" alt="Gmail" width="40" height="40"/> </a>
      <a  href="https://linkedin.com/in/amit-singh-b465b41a4" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/github/linkedin.png" alt="LinkedIn" width="40" height="40"/> </a>
@@ -22,18 +22,18 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/HTML5_Logo_512.png" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/css-3-logo-png-transparent.png" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/js-logo.png" alt="javascript" width="40" height="40"/> </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/Java-PNG-Clipart.png" alt="java" width="40" height="40"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/MySQL.jpg" alt="mysql" width="40" height="40"/> </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/Spring.jpg" alt="spring" width="40" height="40"/> </a> 
-    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/Spring%20Boot.jpg" alt="spring boot" width="40" height="40"/> </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/git.png" alt="git" width="40" height="40"/> </a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/GitHub.jpg" alt="git hub" width="40" height="40"/> </a> 
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/aws.png" alt="aws" width="40" height="40"/> </a> 
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/Visual%20Studio%20Code.png" alt="vs code" width="40" height="40"/> </a> 
-    <a href="https://spring.io/tools" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/SpringToolSuite.jpeg" alt="sts" width="40" height="40"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/HTML5_Logo_512.png" alt="html5" width="50" height="50"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/css-3-logo-png-transparent.png" alt="css3" width="50" height="50"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/js-logo.png" alt="javascript" width="50" height="50"/> </a> 
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/Java-PNG-Clipart.png" alt="java" width="50" height="50"/> </a> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/MySQL.jpg" alt="mysql" width="50" height="50"/> </a>
+    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/Spring.jpg" alt="spring" width="50" height="50"/> </a> 
+    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/Spring%20Boot.jpg" alt="spring boot" width="50" height="50"/> </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/git.png" alt="git" width="50" height="50"/> </a>
+    <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/GitHub.jpg" alt="git hub" width="50" height="50"/> </a> 
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/aws.png" alt="aws" width="50" height="50"/> </a> 
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/Visual%20Studio%20Code.png" alt="vs code" width="50" height="50"/> </a> 
+    <a href="https://spring.io/tools" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/SpringToolSuite.jpeg" alt="sts" width="50" height="50"/> </a> 
     
  
    
@@ -42,6 +42,8 @@
 <!--     <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>  -->
 </p>
 
+<h3 align="left">My Statistics:</h3>
+<p align="left"> 
 <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit-singh-05&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="amit-singh-05" />
 </div>
@@ -52,5 +54,6 @@
     
 <div>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=amit-singh-05&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="amit-singh-05" />
-</div> 
+</div>
+</p>
 
