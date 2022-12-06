@@ -46,7 +46,7 @@
 <h3 align="left">My Statistics:</h3>
 <p align="centre"> 
 <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit-singh-05&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="amit-singh-05" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit-singh-05&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="amit-singh-05" />
 </div>
 
 <div>
