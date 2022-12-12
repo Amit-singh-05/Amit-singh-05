@@ -7,11 +7,11 @@
 <img align="right" alt="Coding" width="400" src="https://amit-singh-05.github.io/images/github/amc.gif">
 <br />
 
-- 👨‍💻 All of my projects are available at [https://amit-singh-05.github.io/](https://amit-singh-05.github.io/)
+- <a href="https://amit-singh-05.github.io/" target="blank">👨‍💻 All of my projects are available here</a>
 
 - 📞 Phone Number **+918602136459**
 
-- 📄 Resume [https://amit-singh-05.github.io/doc/Amit%20singh%20Resume.pdf](https://amit-singh-05.github.io/doc/Amit%20singh%20Resume.pdf)
+- <a href="https://amit-singh-05.github.io/doc/Amit%20singh%20Resume.pdf" target="blank">📄 Resume</a>
 
 <h3 align="left">Get in Touch:</h3>
 <p align="left">
