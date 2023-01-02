@@ -32,7 +32,7 @@
     <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/Spring%20Boot.jpg" alt="spring boot" width="50" height="50"/> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/git.png" alt="git" width="50" height="50"/> </a>
     <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/GitHub.jpg" alt="git hub" width="50" height="50"/> </a> 
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/aws.png" alt="aws" width="50" height="50"/> </a> 
+    <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/Hibernate.png" alt="Hibernate" width="50" height="50"/> </a> 
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/Visual%20Studio%20Code.png" alt="vs code" width="50" height="50"/> </a> 
     <a href="https://spring.io/tools" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/SpringToolSuite.jpeg" alt="sts" width="50" height="50"/> </a> 
     
