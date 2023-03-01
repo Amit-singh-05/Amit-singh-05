@@ -34,13 +34,14 @@
     <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/GitHub.jpg" alt="git hub" width="50" height="50"/> </a> 
     <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/Hibernate.png" alt="Hibernate" width="50" height="50"/> </a> 
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/Visual%20Studio%20Code.png" alt="vs code" width="50" height="50"/> </a> 
-    <a href="https://spring.io/tools" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/SpringToolSuite.jpeg" alt="sts" width="50" height="50"/> </a> 
-    
- 
-   
-    
-    
-<!--     <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>  -->
+    <a href="https://spring.io/tools" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/SpringToolSuite.jpeg" alt="sts" width="50" height="50"/> </a>
+    <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/Postman.png" alt="Postman" width="50" height="50"/> </a> 
+    <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/Swagger.png" alt="Swagger" width="50" height="50"/> </a>
+    <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/maven.png" alt="maven" width="50" height="50"/> </a>
+    <a href="" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/RESTful%20API.jpeg" alt="RESTfulapi" width="50" height="50"/> </a>
+    <a href="" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/dsa.jpg" alt="dsa" width="50" height="50"/> </a>
+    <a href="https://projectlombok.org/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/lombok.png" alt="lombok" width="50" height="50"/> </a>
+    <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://amit-singh-05.github.io/images/Tech%20Skills%20&%20Tools/Netlify.png" alt="Netlify" width="50" height="50"/> </a>
 </p>
 
 <h3 align="left">My Statistics:</h3>
