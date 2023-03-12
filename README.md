@@ -2,7 +2,7 @@
 <a href="https://amit-singh-05.github.io/" target="blank">![MasterHead](https://amit-singh-05.github.io/images/github/ba3.gif)</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-singh-05&label=Profile%20views&color=0e75b6&style=flat" alt="amit-singh-05" /> </p>
 <h1 align="center">Hi 👋, I'm Amit Singh</h1>
-<p align="center">Innovative, task-driven professional with a strong understanding of web development, along with 30 weeks(1000+ hrs) of coding experience and excellent communication skills, seeking an entry-level position to begin my career in a high-level professional environment to make use of my interpersonal skills to achieve the goals of a company and to intensify my skillset along the way.</p>
+<p align="center">As a Java developer, I am a highly skilled and experienced professional with a passion for developing robust, scalable, and maintainable software applications. With a deep understanding of core Java concepts and a wealth of experience in using various Java development tools and frameworks, I am capable of creating high-quality software applications that meet the needs of businesses and organizations. My expertise in working with databases, integrating systems, and delivering effective solutions to complex problems makes me an invaluable asset to any organization looking to build reliable and scalable software applications. As a quick learner and great communicator, I work well in teams and can collaborate effectively with other developers, testers, and stakeholders to deliver high-quality software solutions.</p>
 
 <img align="right" alt="Coding" width="400" src="https://amit-singh-05.github.io/images/github/amc.gif">
 <br />
