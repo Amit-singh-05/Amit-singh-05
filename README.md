@@ -1,5 +1,5 @@
 
-<a href="https://amit-singh-05.github.io/" target="blank">![MasterHead](https://amit-singh-05.github.io/images/github/ba3.gif)</a>
+<a href="https://amit-singh-05.github.io/" target="blank">![MasterHead](https://github.com/Amit-singh-05/Amit-singh-05.github.io/blob/main/images/github/ba3.gif?raw=true)</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-singh-05&label=Profile%20views&color=0e75b6&style=flat" alt="amit-singh-05" /> </p>
 <h1 align="center">Hi 👋, I'm Amit Singh</h1>
 <p align="center">As a Java developer, I am a highly skilled and experienced professional with a passion for developing robust, scalable, and maintainable software applications. With a deep understanding of core Java concepts and a wealth of experience in using various Java development tools and frameworks, I am capable of creating high-quality software applications that meet the needs of businesses and organizations. My expertise in working with databases, integrating systems, and delivering effective solutions to complex problems makes me an invaluable asset to any organization looking to build reliable and scalable software applications. As a quick learner and great communicator, I work well in teams and can collaborate effectively with other developers, testers, and stakeholders to deliver high-quality software solutions.</p>
